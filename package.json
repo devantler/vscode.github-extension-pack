@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/devantler/vscode.github-extension-pack"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -18,7 +18,7 @@
     "extensionPack": [ 
         "github.vscode-pull-request-github",
         "github.remotehub",
-        "devantler.git-extension-pack",
+        "devantler.git-extension-pack-new",
         "github.codespaces"
     ]
 }

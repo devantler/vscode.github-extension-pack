@@ -1,14 +1,14 @@
 {
     "name": "github-extension-pack",
-    "publisher": "niem94",
+    "publisher": "devantler",
     "displayName": "GitHub Extension Pack",
     "description": "A collection of extensions that ease working with GitHub repositories.",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.github-extension-pack"
+        "url": "https://github.com/devantler/vscode.github-extension-pack"
     },
-    "version": "0.0.3",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -18,7 +18,7 @@
     "extensionPack": [ 
         "github.vscode-pull-request-github",
         "github.remotehub",
-        "niem94.git-extension-pack",
+        "devantler.git-extension-pack",
         "github.codespaces"
     ]
 }
